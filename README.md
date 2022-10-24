@@ -1,2 +1,1 @@
-# rsschool-cv
-⚡ CV template Markdown for rsschool
+https://davronsaygaziev.github.io/rsschool-cv/cv
