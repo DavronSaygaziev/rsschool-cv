@@ -53,3 +53,5 @@ Recently, I decided to completely change my life at the age of 31, quit my posit
 
 ## English 
 - **2016** IELTS exam overall band score 5,5
+- **2008** ADC Upper-Intermediate
+- 
