@@ -4,6 +4,7 @@
 
 ## Contact details
 - **Address:** Side mah. Manavgat, Antalya, Türkiye.
+- **Phone** +90 531 358 7625
 - **E-mail:** saygaziev@gmail.com
 - **GitHub:** [DavronSaygaziev](https://github.com/DavronSaygaziev)
 
