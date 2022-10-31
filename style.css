@@ -1,0 +1,32 @@
+body {
+    width: 700px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f8ebdb;
+    font-size: 18px;
+    text-align: center;
+}
+
+.right-flexbox {
+    margin: 0 0 0 30px;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.rs-school {
+    text-align: right;
+}
+
+a {
+    color: black;
+}
+
+.about {
+    line-height: 1.5;
+}
+
+.left-align {
+    text-align: left;
+}
